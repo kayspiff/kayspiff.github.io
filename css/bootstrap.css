@@ -120,6 +120,11 @@ textarea {
 button {
   overflow: visible;
 }
+
+.fa
+{
+  color:white;
+}
 button,
 select {
   text-transform: none;
