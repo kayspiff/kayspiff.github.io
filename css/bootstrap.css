@@ -141,7 +141,7 @@ button {
 
 .fa
 {
-  color:white;
+  color:black;
 }
 button,
 select {
@@ -6793,5 +6793,5 @@ button.close {
 .fontforweb
 {
   font-family:montserrat;
-  color:white;
+  color:black;
 }
