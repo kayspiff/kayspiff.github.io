@@ -143,6 +143,11 @@ button {
 {
   color:black;
 }
+
+.fa:hover
+{
+  color:#2fd3b2;
+}
 button,
 select {
   text-transform: none;
